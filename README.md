@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Cyril0430/Cyril0430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Cyril Mori
+Student of master course, Niigata university Graduate School of Integrated Arts and SciencesMaster's Program of Humanities and Social Sciences
+
+## Speciality
+* Computational Clinical Psychology
+
+# Research Interests
+* Computational Psychiatry
+* Computer Simulation
